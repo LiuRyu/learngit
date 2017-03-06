@@ -3,3 +3,4 @@ add a new line;
 create new branch;
 add a new line for master;
 create new branch dev2;
+test the TortoiseGit commit;
